@@ -20,8 +20,8 @@ The data used in this application was sourced from historical flight data freely
 The WebApp is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
 
 
-## [Usage]() 
-
+## [Usage](https://joshjetson-flight-tracker-strmlt-fts-gb1qxl.streamlit.app/) 
+- Click on Usage ^^ to use the deployed app!
 ### Development
 Want to contribute? Great!
 
